@@ -14,7 +14,7 @@ I'm an Android Developer and Software Engineering student at The Islamia Univers
 I'm actively improving my problem-solving skills on LeetCode.  
 Here’s my current progress:
 
-<img src="./Screenshot 2025-06-13 094217.png" alt="LeetCode Stats" width="400" height="300"/>
+<img src="./leetcode_light.png" alt="LeetCode Stats" width="400" height="300"/>
 
 
 
