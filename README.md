@@ -1,4 +1,4 @@
-# Hi, I'm Shoaib Khalid 👋
+# Hi, I'm Muhammad Shoaib Khalid 👋
 
 I'm an Android Developer and Software Engineering student at The Islamia University of Bahawalpur, focused on building clean, efficient, and modern apps using Kotlin and Jetpack Compose.
 
@@ -16,7 +16,7 @@ Here’s my current progress:
 
 <img src="./leetcode_light.png" alt="LeetCode Stats"
      width="400"
-     style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
+     style="border-radius: 12px; box-shadow: 0 4px 12px />
 
 
 📘 [View my LeetCode profile](https://leetcode.com/shoaibkhalid65)
