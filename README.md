@@ -4,7 +4,7 @@ I'm an Android Developer and Software Engineering student at The Islamia Univers
 
 ## 💼 Android Projects
 - 🔋 **Battery Manager App**
-- 🌦️ **Weather App** (Live APIs, OSMDroid, 3D animations)
+- 🌦️ **Weather App** (Live APIs, OSMDroid, 3D animations) 
 - 📝 **To-Do List App** (Room, FastAdapter, Material Design 3)
 - 🛒 **Play Store Clone** (Multi-view RecyclerView)
 - 🆕 **NewApp Project** (Latest project)
