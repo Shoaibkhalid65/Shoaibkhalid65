@@ -7,7 +7,7 @@ I'm an Android Developer and Software Engineering student at The Islamia Univers
 - 🌦️ **Weather App** (Live APIs, OSMDroid, 3D animations) 
 - 📝 **To-Do List App** (Room, FastAdapter, Material Design 3)
 - 🛒 **Play Store Clone** (Multi-view RecyclerView)
-- 🆕 **NewApp Project** (Latest project)
+- 🆕 **NewApp Project** (Room,Retrofit,Coroutines,Caching)
 
 ## 🧠 LeetCode Progress
 
