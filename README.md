@@ -41,6 +41,6 @@ Here’s my current progress:
 ---
 
 📫 **Connect with me**:  
-[LinkedIn](https://linkedin.com/in/shoaibkhalid65) | [GitHub](https://github.com/shoaibkhalid65)
+[LinkedIn](https://linkedin.com/in/shoaibkhalid65) | [GitHub](https://github.com/shoaibkhalid65).
 
 
