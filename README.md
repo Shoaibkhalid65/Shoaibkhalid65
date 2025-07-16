@@ -39,6 +39,10 @@ Here’s my current progress:
 ![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibkhalid65&show_icons=true&theme=tokyonight)
 
 ---
+## Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=shoaibkhalid65&color=blue)
+
 
 📫 **Connect with me**:  
 [LinkedIn](https://linkedin.com/in/shoaibkhalid65) | [GitHub](https://github.com/shoaibkhalid65).
