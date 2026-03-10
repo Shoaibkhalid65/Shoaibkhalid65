@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Shoaib Khalid</h1>
-<h3 align="center">Android Developer · Kotlin & Jetpack Compose Specialist</h3>
+<h3 align="center">Android Developer · Building Android Apps with AI Features</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-shoaib-khalid-864502297">
@@ -18,13 +18,13 @@
 
 ## About Me
 
-I'm a native Android developer based in Pakistan, specializing in building production-grade apps with **Kotlin and Jetpack Compose**. I'm currently in my final year of Software Engineering at **Islamia University of Bahawalpur**, with 3 years of hands-on development experience.
+I'm a native Android developer based in Pakistan, building production-grade Android apps with **Kotlin, Jetpack Compose, and AI integrations**. Final year Software Engineering student at **Islamia University of Bahawalpur**, with 3 years of hands-on development experience.
 
-My focus is on clean architecture, modern Android patterns, and shipping apps that solve real problems.
+My focus is on clean architecture, modern Android patterns, and shipping apps that deliver real value.
 
-- 🔭 Currently building a **Goals & Task Tracker** app with Hilt, Room, DataStore, and Kotlin Flows
-- 🚀 Planning **Forensics AI** — an AI-powered app for detecting AI-generated content
-- 🌱 Exploring AI integrations with Anthropic API, Gemini, and ML Kit
+- 🤖 Passionate about integrating AI into native Android apps using Gemini, ML Kit, and LLM APIs
+- 🏗️ Strong foundation in MVVM, Clean Architecture, Hilt, Room, and Kotlin Flows
+- 📦 Delivered production apps to real clients — from architecture to Play Store–ready builds
 - 📍 Pakistan · Open to remote opportunities
 
 ---
@@ -91,7 +91,7 @@ My focus is on clean architecture, modern Android patterns, and shipping apps th
 
 | Project | Description | Stack |
 |---|---|---|
-| [Goals Tracker](https://github.com/Shoaibkhalid65) | Task & goal tracking app with reactive state management | Kotlin · Compose · Room · Hilt · DataStore |
+| [Money Tracker](https://github.com/Shoaibkhalid65/MoneyTracker) | Tracking money with reactive state management | Java · Xml · ObjectBox Database · Material 3  |
 | [BottomBars](https://github.com/Shoaibkhalid65/BottomBars) | Material 3 Bottom Navigation patterns & demos | Kotlin · Compose |
 | [NewsApp](https://github.com/Shoaibkhalid65/NewsApp) | Offline-first news app with MVVM & Retrofit | Kotlin · Room · LiveData · Coroutines |
 
@@ -114,5 +114,4 @@ My focus is on clean architecture, modern Android patterns, and shipping apps th
 
 I'm open to Android developer roles, freelance projects, and open source collaboration.
 
-📧 shoaibkhalid65@gmail.com  
-🔗 [linkedin.com/in/muhammad-shoaib-khalid-864502297](https://linkedin.com/in/muhammad-shoaib-khalid-864502297)
+📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="34475c5b555d565f5c55585d500201745359555d581a575b59">[email&#160;prot
